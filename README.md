@@ -1,5 +1,5 @@
 # Number row characters
-School
+School :heart:
 
 ![Waving Hello](https://github.com/user-attachments/assets/2b9cdabd-42c7-4bbd-ab27-d3586f44f28c)
 
