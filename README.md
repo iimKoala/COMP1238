@@ -1,26 +1,15 @@
-# Number row characters
-School :heart:
 
-![Waving Hello](https://github.com/user-attachments/assets/2b9cdabd-42c7-4bbd-ab27-d3586f44f28c)
+#Comp 1238 Lab 2
 
-1. Burger
-2. Pizza
-3. Fries
+## Keyboard shortcuts
+I use
 
-- Popcorn
-+ Chips
-* Banana
+* Win-E (Open explorer)
+* Ctrl-Shift-Esc (Task manager)
+* Ctrl-C (copy)
 
-**Bold text**
+I would like to use 
 
-*italic* 
-
- 1. [Google](google.com)
- 2. [Github](github.com)
- 3. [Brightspace D2L](learn.georgebrown.ca)
-
-# Experiments
-
-# :open_mouth:  wow this is cool
-----------------------------------
-# Patrick the :star:
+- Alt-Esc (Cycle through open windows)
+- Shift-F10 (open context menu)
+- Win-I (Open windows settings)
