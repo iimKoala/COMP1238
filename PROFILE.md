@@ -21,6 +21,6 @@ School
 
 # Experiments
 
-# :open_mouth:  wow this is cool
+ :open_mouth:  wow this is cool
 ----------------------------------
-# Patrick the :star:
+ Patrick the :star:
