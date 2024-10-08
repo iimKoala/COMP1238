@@ -13,3 +13,5 @@ I would like to use
 - Alt-Esc (Cycle through open windows)
 - Shift-F10 (open context menu)
 - Win-I (Open windows settings)
+
+[CLI commands](docs/cli.md)
