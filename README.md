@@ -24,3 +24,6 @@ School
 :open_mouth:  wow this is cool
 ----------------------------------
  Patrick the :star:
+ [CLI commands](docs/cli.md)
+ [Windows Keys](Profile.md)
+ [MARKDOWN Examples](MARKDOWN.md)
