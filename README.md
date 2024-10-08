@@ -27,6 +27,8 @@ School
 
 Patrick the :star:
  
- [CLI commands](docs/cli.md)
- [Windows Keys](Profile.md)
- [MARKDOWN Examples](MARKDOWN.md)
+ [CLI commands](docs/cli.md) ,
+
+ [Windows Keys](Profile.md) ,
+ 
+ [MARKDOWN Examples](MARKDOWN.md) 
