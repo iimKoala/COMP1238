@@ -1,4 +1,3 @@
-
 [
     {
         "name": "LeBron James",
@@ -21,12 +20,12 @@
         "age": 36
     },
     {
-        "name": "Serena Williams",  //string
+        "name": "Serena Williams", //string
         "sport": "Tennis", //string
         "team": {
-        "name": "N/A",
-        "city": "N/A" 
-        },         // N/A means not applicable
+            "name": "N/A",
+            "city": "N/A"
+        }, // N/A means not applicable
         "position": "Player", //string
         "age": 41 //number
     },
