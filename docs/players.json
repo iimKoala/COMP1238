@@ -1,3 +1,4 @@
+
 [
     {
         "name": "LeBron James",
@@ -20,7 +21,7 @@
         "age": 36
     },
     {
-        "name": "Serena Williams", //string
+        "name": "Serena Williams",  //string
         "sport": "Tennis", //string
         "team": null, //null means no value
         "position": "Player", //string
