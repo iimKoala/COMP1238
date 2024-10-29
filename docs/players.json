@@ -23,7 +23,10 @@
     {
         "name": "Serena Williams",  //string
         "sport": "Tennis", //string
-        "team": null, //null means no value
+        "team": {
+        "name": "N/A",
+        "city": "N/A" 
+        },         // N/A means not applicable
         "position": "Player", //string
         "age": 41 //number
     },
